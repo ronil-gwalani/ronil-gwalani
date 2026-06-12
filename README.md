@@ -4,7 +4,7 @@
 
 ### 🚀 Senior Android Engineer • Product Architect • Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Android+Developer+with+3%2B+Years+of+Experience;Building+Products+That+Scale;Jetpack+Compose+Enthusiast;Kotlin+Multiplatform+Explorer;Open+Source+Contributor;Leading+Teams+%26+Mentoring+Developers" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Android+Developer+with+4%2B+Years+of+Experience;Building+Products+That+Scale;Jetpack+Compose+Enthusiast;Kotlin+Multiplatform+Explorer;Open+Source+Contributor;Leading+Teams+%26+Mentoring+Developers" />
 
 </div>
 
