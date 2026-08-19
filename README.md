@@ -12,14 +12,20 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Senior Software Engineer at **Renxo Technologies**
-- 🏗️ Product Lead & Assistant Functional Architect
-- 📱 Built and contributed to **40+ production applications**
-- 🚀 Leading teams and mentoring developers
-- 🧩 Passionate about Clean Architecture and scalable systems
-- 🌱 Exploring **Kotlin Multiplatform** and Backend Development
-- 🏆 Multiple company awards for outstanding performance
-- ♟️ Company Chess Tournament Winner
+I'm a **Senior Android Engineer and Product Architect** with **4+ years of experience** building and shipping production-grade mobile applications.
+
+* 📱 Building scalable Android applications with **Kotlin, Jetpack Compose, and modern Android architecture**
+* 🏗️ Experienced in **Clean Architecture, modularization, offline-first systems, and scalable product design**
+* 🚀 Have **built and contributed to 40+ production applications** across different domains
+* 👨‍💼 Working across **engineering, product, and architecture**, while leading teams and mentoring developers
+* 🌍 Exploring **Kotlin Multiplatform (KMP)** to build shared experiences across Android and iOS
+* ⚙️ Expanding into **backend development** with Ktor, Spring Boot, and modern backend architectures
+* 🧠 Passionate about turning complex product requirements into **simple, maintainable, and scalable systems**
+* 🏆 Recognized with multiple awards for **performance, delivery, and technical contribution**
+* ♟️ Outside of code, I enjoy **chess, learning new technologies, and building side projects**
+
+> **I don't just build features — I enjoy understanding the product, designing the system, and helping teams build it better.**
+
 
 ---
 
@@ -56,43 +62,63 @@
 
 ## 🚀 Featured Projects
 
+
+### 📡 WebRTC Real-Time Communication
+
+Real-time audio/video communication solution built for Android using **WebRTC**.
+
+* 🎥 Real-time **audio & video calling**
+* 🔗 WebRTC **PeerConnection** management
+* 📡 Signaling and ICE candidate handling
+* 🎙️ Audio/video **media stream management**
+* 📞 Call lifecycle and connection state management
+* 🔔 Background/incoming call handling
+* 🔒 Secure communication architecture
+* 🏗️ Designed with scalable Android architecture
+
+**Tech:** Kotlin • Android • WebRTC • Firebase • Jetpack • Real-time Communication
+
+---
+
 ### ❤️ MatchMate
+
 Dating MVP built using:
 
-- Jetpack Compose
-- Multi-module Architecture
-- Koin Dependency Injection
-- Offline-first Support
-- Sync Engine
+* Jetpack Compose
+* Multi-module Architecture
+* Koin Dependency Injection
+* Offline-first Support
+* Sync Engine
 
 ---
 
 ### 💰 Hissab
 
-Kotlin Multiplatform application to track personal lending and borrowing.
+Kotlin Multiplatform application for tracking personal lending and borrowing.
 
-- Android + iOS
-- Clean UI
-- Ad-free
-- Shared Business Logic
+* Android + iOS
+* Shared business logic
+* Clean UI
+* Ad-free experience
+* Kotlin Multiplatform
 
 ---
 
 ### 🍫 Easy SnackBar
 
-Custom Jetpack Compose Snackbar Library.
+Custom **Jetpack Compose Snackbar Library** designed for a simple and highly customizable developer experience.
 
-Features:
-
-- Minimal setup
-- Highly customizable
-- Compose-first API
+* Minimal setup
+* Compose-first API
+* Highly customizable
+* Open-source
 
 ---
 
 ### 🖼️ RonImagePickerLibrary
 
-Simplified Android image picker implementation.
+Lightweight Android image picker library designed to simplify image selection and integration into Android applications.
+
 
 ---
 
